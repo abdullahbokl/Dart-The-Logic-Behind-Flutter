@@ -1,0 +1,36 @@
+Preface.md
+PART 1: Programming Foundations with Dart.md
+Chapter 1: Thinking Like a Programmer.md
+Chapter 2: Variables & Data Types.md
+Chapter 3: Control Flow.md
+Chapter 4: Loops & Iteration.md
+Chapter 5: Functions & Reusability.md
+PART 2: Working with Data.md
+Chapter 6: Collections.md
+Chapter 7: Null Safety (Critical Dart Feature).md
+Chapter 8: Error Handling.md
+PART 3: Object-Oriented Programming (OOP).md
+Chapter 9: Introduction to OOP.md
+Chapter 10: Classes & Objects.md
+Chapter 11: Encapsulation.md
+Chapter 12: Inheritance.md
+Chapter 13: Polymorphism.md
+Chapter 14: Abstraction.md
+Chapter 15: Composition vs Inheritance.md
+PART 4: Advanced Dart Concepts.md
+Chapter 16: Enums & Extensions.md
+Chapter 17: Generics.md
+Chapter 18: Mixins.md
+Chapter 19: Immutability.md
+PART 5: Async & Performance.md
+Chapter 20: Asynchronous Programming.md
+Chapter 21: Streams.md
+Chapter 22: Isolates (Conceptual).md
+PART 6: Dart for Flutter Developers.md
+Chapter 23: Dart Patterns Used in Flutter.md
+Chapter 24: Clean Code for Flutter.md
+Chapter 25: Common Dart Mistakes in Flutter.md
+PART 7: Problem-Solving Section.md
+Chapter 26: Logic Challenges.md
+Chapter 27: Mini Projects.md
+Conclusion.md
