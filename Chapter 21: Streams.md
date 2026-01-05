@@ -1,5 +1,7 @@
 # Chapter 21: Streams
 
+![Cover - Chapter 21](Images/Covers/chapter-21-streams.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Some data arrives **repeatedly over time**: user input, sensor readings, chat messages, or real-time updates.  

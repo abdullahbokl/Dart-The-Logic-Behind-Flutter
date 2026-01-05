@@ -1,5 +1,7 @@
 # Chapter 25: Common Dart Mistakes in Flutter
 
+![Cover - Chapter 25](Images/Covers/chapter-25-common-dart-mistakes-in-flutter.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Even experienced developers fall into Dart/Flutter traps that cause performance issues, bugs, or memory leaks.  

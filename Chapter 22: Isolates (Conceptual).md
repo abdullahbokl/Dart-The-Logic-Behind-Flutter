@@ -1,5 +1,7 @@
 # Chapter 22: Isolates (Conceptual)
 
+![Cover - Chapter 22](Images/Covers/chapter-22-isolates-conceptual.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Dart runs on a single thread—so heavy computations (e.g., image processing, large JSON parsing) can **freeze the UI**.  

@@ -1,5 +1,7 @@
 # Chapter 20: Asynchronous Programming
 
+![Cover - Chapter 20](Images/Covers/chapter-20-asynchronous-programming.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Apps need to wait for slow operations (network, file I/O, animations) without freezing the UI.  

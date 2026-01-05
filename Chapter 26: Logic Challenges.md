@@ -1,5 +1,7 @@
 # Chapter 26: Logic Challenges
 
+![Cover - Chapter 26](Images/Covers/chapter-26-logic-challenges.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Knowing syntax isn’t enough—you must **think algorithmically** to solve real problems.  

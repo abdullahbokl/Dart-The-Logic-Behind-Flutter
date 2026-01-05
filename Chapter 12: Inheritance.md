@@ -1,5 +1,7 @@
 # Chapter 12: Inheritance
 
+![Cover - Chapter 12](Images/Covers/chapter-12-inheritance.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 When multiple classes share common behavior (e.g., `Dog` and `Cat` both `eat()` and `sleep()`), copying code leads to duplication and maintenance nightmares.  

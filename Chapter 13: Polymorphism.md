@@ -1,5 +1,7 @@
 # Chapter 13: Polymorphism
 
+![Cover - Chapter 13](Images/Covers/chapter-13-polymorphism.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Without polymorphism, you’d need separate logic for every object type—even if they do the same thing.  

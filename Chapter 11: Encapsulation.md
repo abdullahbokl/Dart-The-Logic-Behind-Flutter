@@ -1,5 +1,7 @@
 # Chapter 11: Encapsulation
 
+![Cover - Chapter 11](Images/Covers/chapter-11-encapsulation.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Without boundaries, any part of your code can change an object’s internal data—leading to bugs, inconsistent states, and fragile logic.  

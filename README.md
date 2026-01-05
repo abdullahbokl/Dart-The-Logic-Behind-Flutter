@@ -1,5 +1,7 @@
 # Dart: The Logic Behind Flutter
 
+![Book cover](Images/Covers/book-cover.jpg)
+
 This repo is the book, split into one Markdown file per part/chapter.
 Use the table of contents below to read in order.
 

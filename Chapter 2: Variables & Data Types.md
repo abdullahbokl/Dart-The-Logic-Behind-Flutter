@@ -1,5 +1,7 @@
 # Chapter 2: Variables & Data Types
 
+![Cover - Chapter 2](Images/Covers/chapter-02-variables-data-types.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Programs need to store and manage changing and unchanging values: user names, scores, settings, etc.  

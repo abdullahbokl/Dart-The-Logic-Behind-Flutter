@@ -1,5 +1,7 @@
 # Chapter 7: Null Safety (Critical Dart Feature)
 
+![Cover - Chapter 7](Images/Covers/chapter-07-null-safety-critical-dart-feature.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 In many languages, using a missing value (`null`) causes crashes like “Cannot read property of null.”  

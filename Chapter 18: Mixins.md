@@ -1,5 +1,7 @@
 # Chapter 18: Mixins
 
+![Cover - Chapter 18](Images/Covers/chapter-18-mixins.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Inheritance only allows one parent (`class A extends B`), but sometimes an object needs **multiple reusable behaviors** from unrelated sources (e.g., a `Car` that can `log()` and `serialize()`).  

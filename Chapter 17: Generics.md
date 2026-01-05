@@ -1,5 +1,7 @@
 # Chapter 17: Generics
 
+![Cover - Chapter 17](Images/Covers/chapter-17-generics.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Without generics, you’d need separate classes for `StringList`, `UserList`, `ProductList`—or resort to unsafe `dynamic` types that cause runtime errors.  

@@ -1,5 +1,7 @@
 # Chapter 14: Abstraction
 
+![Cover - Chapter 14](Images/Covers/chapter-14-abstraction.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 When every class exposes full implementation details, code becomes tightly coupled and fragile.  

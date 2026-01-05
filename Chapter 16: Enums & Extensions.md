@@ -1,5 +1,7 @@
 # Chapter 16: Enums & Extensions
 
+![Cover - Chapter 16](Images/Covers/chapter-16-enums-extensions.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 When you use strings or integers to represent fixed sets of values (e.g., `"pending"`, `"approved"`), your code becomes error-prone and hard to maintain.  

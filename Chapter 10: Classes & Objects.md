@@ -1,5 +1,7 @@
 # Chapter 10: Classes & Objects
 
+![Cover - Chapter 10](Images/Covers/chapter-10-classes-objects.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Without a clear structure, object creation is messy and error-prone.  

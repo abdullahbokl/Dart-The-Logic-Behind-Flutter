@@ -1,5 +1,7 @@
 # Chapter 24: Clean Code for Flutter
 
+![Cover - Chapter 24](Images/Covers/chapter-24-clean-code-for-flutter.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 As Flutter apps grow, code becomes messy: giant widgets, unclear state logic, and tangled dependencies.  

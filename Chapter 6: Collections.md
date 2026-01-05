@@ -1,5 +1,7 @@
 # Chapter 6: Collections
 
+![Cover - Chapter 6](Images/Covers/chapter-06-collections.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Real apps don’t work with single values—they manage lists of users, sets of tags, or maps of settings.  

@@ -1,5 +1,7 @@
 # Chapter 15: Composition vs Inheritance
 
+![Cover - Chapter 15](Images/Covers/chapter-15-composition-vs-inheritance.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Inheritance can lead to rigid, fragile hierarchies when misused (e.g., “a `Car` is a `Vehicle`” ✅, but “a `Car` is an `Engine`” ❌).  

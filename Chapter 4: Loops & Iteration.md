@@ -1,5 +1,7 @@
 # Chapter 4: Loops & Iteration
 
+![Cover - Chapter 4](Images/Covers/chapter-04-loops-iteration.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Repeating the same action for multiple items (e.g., showing a list of products, validating 10 fields) is tedious and error-prone if done manually.  

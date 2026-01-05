@@ -1,5 +1,7 @@
 # Chapter 19: Immutability
 
+![Cover - Chapter 19](Images/Covers/chapter-19-immutability.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Mutable objects can change unexpectedly—leading to bugs when shared across functions, widgets, or threads.  

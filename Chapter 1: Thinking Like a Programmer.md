@@ -1,5 +1,7 @@
 # Chapter 1: Thinking Like a Programmer
 
+![Cover - Chapter 1](Images/Covers/chapter-01-thinking-like-a-programmer.jpg)
+
 ## 1. Concept Goal  
 **What problem does this solve?**  
 Most beginners jump into code without understanding the problem first. This leads to messy, buggy, or unnecessary solutions.  
