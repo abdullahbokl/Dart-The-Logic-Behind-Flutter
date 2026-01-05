@@ -1,6 +1,6 @@
 # Chapter 18: Mixins
 
-![Cover - Chapter 18](Images/Covers/chapter-18-mixins.jpg)
+![Cover - Chapter 18](resources/images/Covers/chapter-18-mixins.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

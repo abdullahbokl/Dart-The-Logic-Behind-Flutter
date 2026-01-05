@@ -1,6 +1,6 @@
 # Chapter 24: Clean Code for Flutter
 
-![Cover - Chapter 24](Images/Covers/chapter-24-clean-code-for-flutter.jpg)
+![Cover - Chapter 24](resources/images/Covers/chapter-24-clean-code-for-flutter.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

@@ -1,6 +1,6 @@
 # Chapter 8: Error Handling
 
-![Cover - Chapter 8](Images/Covers/chapter-08-error-handling.jpg)
+![Cover - Chapter 8](resources/images/Covers/chapter-08-error-handling.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

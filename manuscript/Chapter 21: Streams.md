@@ -1,6 +1,6 @@
 # Chapter 21: Streams
 
-![Cover - Chapter 21](Images/Covers/chapter-21-streams.jpg)
+![Cover - Chapter 21](resources/images/Covers/chapter-21-streams.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

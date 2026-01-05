@@ -1,6 +1,6 @@
 # Chapter 16: Enums & Extensions
 
-![Cover - Chapter 16](Images/Covers/chapter-16-enums-extensions.jpg)
+![Cover - Chapter 16](resources/images/Covers/chapter-16-enums-extensions.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

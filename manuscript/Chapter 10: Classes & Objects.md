@@ -1,6 +1,6 @@
 # Chapter 10: Classes & Objects
 
-![Cover - Chapter 10](Images/Covers/chapter-10-classes-objects.jpg)
+![Cover - Chapter 10](resources/images/Covers/chapter-10-classes-objects.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

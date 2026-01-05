@@ -1,6 +1,6 @@
 # Chapter 3: Control Flow
 
-![Cover - Chapter 3](Images/Covers/chapter-03-control-flow.jpg)
+![Cover - Chapter 3](resources/images/Covers/chapter-03-control-flow.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

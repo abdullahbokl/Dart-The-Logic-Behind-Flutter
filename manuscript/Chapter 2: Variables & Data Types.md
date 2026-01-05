@@ -1,6 +1,6 @@
 # Chapter 2: Variables & Data Types
 
-![Cover - Chapter 2](Images/Covers/chapter-02-variables-data-types.jpg)
+![Cover - Chapter 2](resources/images/Covers/chapter-02-variables-data-types.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

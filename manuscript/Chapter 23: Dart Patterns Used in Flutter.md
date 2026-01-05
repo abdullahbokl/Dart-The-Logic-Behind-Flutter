@@ -1,6 +1,6 @@
 # Chapter 23: Dart Patterns Used in Flutter
 
-![Cover - Chapter 23](Images/Covers/chapter-23-dart-patterns-used-in-flutter.jpg)
+![Cover - Chapter 23](resources/images/Covers/chapter-23-dart-patterns-used-in-flutter.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

@@ -1,6 +1,6 @@
 # Chapter 11: Encapsulation
 
-![Cover - Chapter 11](Images/Covers/chapter-11-encapsulation.jpg)
+![Cover - Chapter 11](resources/images/Covers/chapter-11-encapsulation.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

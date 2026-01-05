@@ -1,6 +1,6 @@
 # Chapter 5: Functions & Reusability
 
-![Cover - Chapter 5](Images/Covers/chapter-05-functions-reusability.jpg)
+![Cover - Chapter 5](resources/images/Covers/chapter-05-functions-reusability.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

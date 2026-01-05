@@ -1,6 +1,6 @@
 # Chapter 19: Immutability
 
-![Cover - Chapter 19](Images/Covers/chapter-19-immutability.jpg)
+![Cover - Chapter 19](resources/images/Covers/chapter-19-immutability.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

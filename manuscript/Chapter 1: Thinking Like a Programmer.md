@@ -1,6 +1,6 @@
 # Chapter 1: Thinking Like a Programmer
 
-![Cover - Chapter 1](Images/Covers/chapter-01-thinking-like-a-programmer.jpg)
+![Cover - Chapter 1](resources/images/Covers/chapter-01-thinking-like-a-programmer.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

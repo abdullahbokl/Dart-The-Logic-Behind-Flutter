@@ -1,6 +1,6 @@
 # Chapter 14: Abstraction
 
-![Cover - Chapter 14](Images/Covers/chapter-14-abstraction.jpg)
+![Cover - Chapter 14](resources/images/Covers/chapter-14-abstraction.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

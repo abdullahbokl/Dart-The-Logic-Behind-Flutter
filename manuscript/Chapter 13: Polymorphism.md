@@ -1,6 +1,6 @@
 # Chapter 13: Polymorphism
 
-![Cover - Chapter 13](Images/Covers/chapter-13-polymorphism.jpg)
+![Cover - Chapter 13](resources/images/Covers/chapter-13-polymorphism.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

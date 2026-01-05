@@ -1,6 +1,6 @@
 # Chapter 15: Composition vs Inheritance
 
-![Cover - Chapter 15](Images/Covers/chapter-15-composition-vs-inheritance.jpg)
+![Cover - Chapter 15](resources/images/Covers/chapter-15-composition-vs-inheritance.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

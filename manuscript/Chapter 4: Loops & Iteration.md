@@ -1,6 +1,6 @@
 # Chapter 4: Loops & Iteration
 
-![Cover - Chapter 4](Images/Covers/chapter-04-loops-iteration.jpg)
+![Cover - Chapter 4](resources/images/Covers/chapter-04-loops-iteration.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

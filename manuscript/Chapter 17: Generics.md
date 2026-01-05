@@ -1,6 +1,6 @@
 # Chapter 17: Generics
 
-![Cover - Chapter 17](Images/Covers/chapter-17-generics.jpg)
+![Cover - Chapter 17](resources/images/Covers/chapter-17-generics.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

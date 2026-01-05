@@ -1,6 +1,6 @@
 # Chapter 7: Null Safety (Critical Dart Feature)
 
-![Cover - Chapter 7](Images/Covers/chapter-07-null-safety-critical-dart-feature.jpg)
+![Cover - Chapter 7](resources/images/Covers/chapter-07-null-safety-critical-dart-feature.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

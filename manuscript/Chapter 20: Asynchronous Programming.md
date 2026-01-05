@@ -1,6 +1,6 @@
 # Chapter 20: Asynchronous Programming
 
-![Cover - Chapter 20](Images/Covers/chapter-20-asynchronous-programming.jpg)
+![Cover - Chapter 20](resources/images/Covers/chapter-20-asynchronous-programming.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

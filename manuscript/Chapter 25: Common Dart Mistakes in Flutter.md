@@ -1,6 +1,6 @@
 # Chapter 25: Common Dart Mistakes in Flutter
 
-![Cover - Chapter 25](Images/Covers/chapter-25-common-dart-mistakes-in-flutter.jpg)
+![Cover - Chapter 25](resources/images/Covers/chapter-25-common-dart-mistakes-in-flutter.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

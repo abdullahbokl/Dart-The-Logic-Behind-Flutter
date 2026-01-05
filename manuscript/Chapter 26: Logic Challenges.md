@@ -1,6 +1,6 @@
 # Chapter 26: Logic Challenges
 
-![Cover - Chapter 26](Images/Covers/chapter-26-logic-challenges.jpg)
+![Cover - Chapter 26](resources/images/Covers/chapter-26-logic-challenges.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

@@ -1,6 +1,6 @@
 # Chapter 27: Mini Projects
 
-![Cover - Chapter 27](Images/Covers/chapter-27-mini-projects.jpg)
+![Cover - Chapter 27](resources/images/Covers/chapter-27-mini-projects.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

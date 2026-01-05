@@ -1,6 +1,6 @@
 # Chapter 12: Inheritance
 
-![Cover - Chapter 12](Images/Covers/chapter-12-inheritance.jpg)
+![Cover - Chapter 12](resources/images/Covers/chapter-12-inheritance.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

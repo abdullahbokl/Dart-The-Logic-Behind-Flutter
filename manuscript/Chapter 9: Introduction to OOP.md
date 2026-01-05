@@ -1,6 +1,6 @@
 # Chapter 9: Introduction to OOP
 
-![Cover - Chapter 9](Images/Covers/chapter-09-introduction-to-oop.jpg)
+![Cover - Chapter 9](resources/images/Covers/chapter-09-introduction-to-oop.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  

@@ -1,6 +1,6 @@
 # Chapter 6: Collections
 
-![Cover - Chapter 6](Images/Covers/chapter-06-collections.jpg)
+![Cover - Chapter 6](resources/images/Covers/chapter-06-collections.jpg)
 
 ## 1. Concept Goal  
 **What problem does this solve?**  
