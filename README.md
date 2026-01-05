@@ -1,0 +1,63 @@
+# Dart: The Logic Behind Flutter
+
+![Book cover](.gitbook/assets/book-cover.jpg)
+
+This repo is the book, split into one Markdown file per part/chapter. Use the table of contents below to read in order.
+
+## Table of Contents
+
+* [Preface](manuscript/Preface.md)
+
+### [PART 1: Programming Foundations with Dart](part-1-programming-foundations-with-dart/)
+
+* [Chapter 1: Thinking Like a Programmer](part-1-programming-foundations-with-dart/chapter-1-thinking-like-a-programmer.md)
+* [Chapter 2: Variables & Data Types](part-1-programming-foundations-with-dart/chapter-2-variables-and-data-types.md)
+* [Chapter 3: Control Flow](part-1-programming-foundations-with-dart/chapter-3-control-flow.md)
+* [Chapter 4: Loops & Iteration](part-1-programming-foundations-with-dart/chapter-4-loops-and-iteration.md)
+* [Chapter 5: Functions & Reusability](part-1-programming-foundations-with-dart/chapter-5-functions-and-reusability.md)
+
+### [PART 2: Working with Data](part-2-working-with-data/)
+
+* [Chapter 6: Collections](part-2-working-with-data/chapter-6-collections.md)
+* [Chapter 7: Null Safety (Critical Dart Feature)](part-2-working-with-data/chapter-7-null-safety-critical-dart-feature.md)
+* [Chapter 8: Error Handling](part-2-working-with-data/chapter-8-error-handling.md)
+
+### [PART 3: Object-Oriented Programming (OOP)](part-3-object-oriented-programming-oop/)
+
+* [Chapter 9: Introduction to OOP](part-3-object-oriented-programming-oop/chapter-9-introduction-to-oop.md)
+* [Chapter 10: Classes & Objects](part-3-object-oriented-programming-oop/chapter-10-classes-and-objects.md)
+* [Chapter 11: Encapsulation](part-3-object-oriented-programming-oop/chapter-11-encapsulation.md)
+* [Chapter 12: Inheritance](part-3-object-oriented-programming-oop/chapter-12-inheritance.md)
+* [Chapter 13: Polymorphism](part-3-object-oriented-programming-oop/chapter-13-polymorphism.md)
+* [Chapter 14: Abstraction](part-3-object-oriented-programming-oop/chapter-14-abstraction.md)
+* [Chapter 15: Composition vs Inheritance](part-3-object-oriented-programming-oop/chapter-15-composition-vs-inheritance.md)
+
+### [PART 4: Advanced Dart Concepts](part-4-advanced-dart-concepts/)
+
+* [Chapter 16: Enums & Extensions](part-4-advanced-dart-concepts/chapter-16-enums-and-extensions.md)
+* [Chapter 17: Generics](part-4-advanced-dart-concepts/chapter-17-generics.md)
+* [Chapter 18: Mixins](part-4-advanced-dart-concepts/chapter-18-mixins.md)
+* [Chapter 19: Immutability](part-4-advanced-dart-concepts/chapter-19-immutability.md)
+
+### [PART 5: Async & Performance](part-5-async-and-performance/)
+
+* [Chapter 20: Asynchronous Programming](part-5-async-and-performance/chapter-20-asynchronous-programming.md)
+* [Chapter 21: Streams](part-5-async-and-performance/chapter-21-streams.md)
+* [Chapter 22: Isolates (Conceptual)](part-5-async-and-performance/chapter-22-isolates-conceptual.md)
+
+### [PART 6: Dart for Flutter Developers](part-6-dart-for-flutter-developers/)
+
+* [Chapter 23: Dart Patterns Used in Flutter](part-6-dart-for-flutter-developers/chapter-23-dart-patterns-used-in-flutter.md)
+* [Chapter 24: Clean Code for Flutter](part-6-dart-for-flutter-developers/chapter-24-clean-code-for-flutter.md)
+* [Chapter 25: Common Dart Mistakes in Flutter](part-6-dart-for-flutter-developers/chapter-25-common-dart-mistakes-in-flutter.md)
+
+### [PART 7: Problem-Solving Section](part-7-problem-solving-section/)
+
+* [Chapter 26: Logic Challenges](part-7-problem-solving-section/chapter-26-logic-challenges.md)
+* [Chapter 27: Mini Projects](part-7-problem-solving-section/chapter-27-mini-projects.md)
+* [Conclusion](manuscript/Conclusion.md)
+
+## Files
+
+* `Book.txt`: canonical reading order.
+* `resources/images/`: optional folder for diagrams/assets.
