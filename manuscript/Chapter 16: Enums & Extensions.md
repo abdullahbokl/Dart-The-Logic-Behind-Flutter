@@ -97,11 +97,11 @@ enum ValidationState { initial, valid, invalid }
 
 // In UI
 Color getStateColor(ValidationState state) {
-  switch (state) {
-    case ValidationState.valid: return Colors.green;
-    case ValidationState.invalid: return Colors.red;
-    case ValidationState.initial: return Colors.grey;
-  }
+  return switch (state) {
+    ValidationState.valid => Colors.green,
+    ValidationState.invalid => Colors.red,
+    ValidationState.initial => Colors.grey,
+  };
 }
 ```
 > Compiler ensures you handle all states.

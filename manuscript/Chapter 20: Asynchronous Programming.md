@@ -162,8 +162,8 @@ Future<String> delayedGreeting(String name) async {
 **Exercise 2**  
 ```dart
 Future<int> fetchSum() async {
-  final values = await Future.wait([fetchA(), fetchB()]);
-  return values[0] + values[1];
+  final [a, b] = await Future.wait([fetchA(), fetchB()]);
+  return a + b;
 }
 ```
 > `Future.wait` runs tasks in parallel → faster total time.

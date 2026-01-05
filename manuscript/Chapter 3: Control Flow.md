@@ -158,6 +158,7 @@ if (isMember && (cartTotal > 50 || isHoliday)) {
 
 **Exercise 3**  
 ```dart
+// Old way: switch statement
 String getMessage(ConnectionState state) {
   switch (state) {
     case ConnectionState.waiting:
@@ -169,6 +170,16 @@ String getMessage(ConnectionState state) {
     case ConnectionState.error:
       return 'Connection failed';
   }
+}
+
+// New way (Dart 3): switch expression
+String getMessageModern(ConnectionState state) {
+  return switch (state) {
+    ConnectionState.waiting => 'Connecting...',
+    ConnectionState.active => 'Online',
+    ConnectionState.inactive => 'Offline',
+    ConnectionState.error => 'Connection failed',
+  };
 }
 ```
 > Exhaustive switch = no surprises. Dart will warn if you miss a case (when using enums).
